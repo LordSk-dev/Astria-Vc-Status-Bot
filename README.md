@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="app.png" alt="Astria VC Status Bot Banner" width="100%" style="border-radius: 10px;" />
+  <img src="app.png" alt="Astria VC Status Bot Banner" width="200" style="border-radius: 14px; margin-bottom: 10px;" />
 
   # 🎙️ Astria Voice Status Bot
 
@@ -25,12 +25,6 @@
 - 📦 **Automated Database Backups**: Hourly scheduled backups of database states sent directly to your private Discord backup channel.
 - 🔔 **Webhook Command Audit Logging**: Real-time webhook notifications for executed commands.
 - 🔀 **Hybrid Command Support**: Both traditional prefix commands (`!vc`, `!extraowner`) and modern Discord Slash Commands (`/vc`, `/extraowner`).
-
----
-
-## 📸 Banner Preview
-
-![Astria Preview](app.png)
 
 ---
 
