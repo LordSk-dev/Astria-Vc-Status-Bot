@@ -12,6 +12,11 @@ __pycache__/
 *.log
 bot.log
 
+# Archives & Binaries
+*.zip
+*.tar.gz
+*.rar
+
 # Operating System & IDE
 .DS_Store
 Thumbs.db
