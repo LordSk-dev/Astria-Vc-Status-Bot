@@ -1,0 +1,19 @@
+# Virtual Environments & Packages
+.venv/
+venv/
+ENV/
+__pycache__/
+*.py[cod]
+
+# Secrets & Local Configuration
+.env
+
+# Logs
+*.log
+bot.log
+
+# Operating System & IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
